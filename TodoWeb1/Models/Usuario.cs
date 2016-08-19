@@ -8,5 +8,6 @@ namespace TodoWeb1.Models
 {
     class Usuario
     {
+        public int UsuarioId { get; set; }
     }
 }
